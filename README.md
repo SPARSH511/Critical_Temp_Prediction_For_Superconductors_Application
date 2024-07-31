@@ -70,6 +70,4 @@ To run the application, execute the following command in your terminal:
   ```sh
   python app_superconductor.py
 
-## Contact
-For any inquiries, please contact SPARSH511 via GitHub.
 
