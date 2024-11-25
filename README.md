@@ -14,7 +14,7 @@ This is a Tkinter-based Python application that lets a user enter the values of 
 
 The application uses the following 35 features for prediction:
 
-# Molecular Parameters Used  
+### Molecular Parameters Used  
 
 | **Variable**               | **Units**                               | **Description**                                                 |
 |----------------------------|-----------------------------------------|-----------------------------------------------------------------|
@@ -29,7 +29,7 @@ The application uses the following 35 features for prediction:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Feature & Description  
+### Feature & Description  
 
 | **Feature**                  | **Formula**                            | **Sample Value**|
 |------------------------------|----------------------------------------|-----------------|
@@ -45,7 +45,7 @@ The application uses the following 35 features for prediction:
 | Weighted standard deviation  | [p₁(t₁-ν)²+p₂(t₂-ν)²)]¹/²              | 8.78            |
 -------------------------------------------------------------------------------------------
 
-# Key to the Actual 35 Parameter Inputs in the Model  
+### Key to the Actual 35 Parameter Inputs in the Model  
 
 | **Term**                      | **Expanded Name**                                   |
 |-------------------------------|-----------------------------------------------------|
